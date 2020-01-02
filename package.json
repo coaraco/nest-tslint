@@ -1,0 +1,20 @@
+{
+  "name": "@coara/nest-tslint",
+  "version": "0.0.1",
+  "description": "Some TSLint rules for Nest projects",
+  "main": "tslint-base.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "author": {
+    "name": "coara TM",
+    "url": "https://coara.co",
+    "email": "contact@coara.co"
+  },
+  "repository": "git@github.com/coaraco/nest-tslint.git",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "codelyzer": "^5.2.1"
+  }
+}
